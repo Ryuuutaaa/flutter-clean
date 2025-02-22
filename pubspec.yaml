@@ -48,7 +48,10 @@ dependencies:
   # make request api
   retrofit: ^4.4.2
 
-  
+  # hooks
+  flutter_hooks: ^0.20.5
+
+
 
 dev_dependencies:
   flutter_test:
