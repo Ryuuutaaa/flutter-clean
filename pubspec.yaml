@@ -51,6 +51,9 @@ dependencies:
   # hooks
   flutter_hooks: ^0.20.5
 
+  # chached image
+  cached_network_image: ^3.4.1
+
 
 
 dev_dependencies:
