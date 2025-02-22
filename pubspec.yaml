@@ -39,6 +39,12 @@ dependencies:
   # comparing dart object
   equatable: ^2.0.7
 
+  # service locator
+  get_it: ^8.0.3
+
+  # Database
+  floor: ^1.5.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
